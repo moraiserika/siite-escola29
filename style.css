@@ -21,3 +21,24 @@
     margin: 0;
     padding: 0;
 }
+.escola-imagem{
+    width: 25%;
+}
+
+.escola {
+    background-image:linear-gradient(#F4CDFF) 
+}
+
+.escola-conteúdo {
+    width: 35%;
+} 
+
+display: flex;
+justify-content: center; 
+align-itens: center;
+padding: 24px 0; 
+
+.escola-título {
+    padding: 24px 0;
+}
+
